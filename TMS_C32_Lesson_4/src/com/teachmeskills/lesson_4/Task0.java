@@ -1,5 +1,5 @@
 package com.teachmeskills.lesson_4;
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class Task0 {
