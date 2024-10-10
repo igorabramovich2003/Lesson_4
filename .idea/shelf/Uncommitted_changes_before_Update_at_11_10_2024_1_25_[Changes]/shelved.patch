@@ -1,0 +1,81 @@
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
++++ /dev/null	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/Lesson_4.iml" filepath="$PROJECT_DIR$/Lesson_4.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+deleted file mode 100644
+--- a/.idea/vcs.xml	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
++++ /dev/null	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
++++ /dev/null	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: TMS_C32_Lesson_4/TMS_C32_Lesson_4.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/TMS_C32_Lesson_4/TMS_C32_Lesson_4.iml b/TMS_C32_Lesson_4/TMS_C32_Lesson_4.iml
+deleted file mode 100644
+--- a/TMS_C32_Lesson_4/TMS_C32_Lesson_4.iml	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
++++ /dev/null	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
+@@ -1,11 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="JAVA_MODULE" version="4">
+-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+-    <exclude-output />
+-    <content url="file://$MODULE_DIR$">
+-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
++++ /dev/null	(revision 7e1e11ae59f7d799e179dd542a5c60ab2057ac99)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
