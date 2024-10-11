@@ -23,11 +23,11 @@ public class Task1 {
             System.out.println("Числа нет в массиве");
         else {
             int[] newArray = new int[array.length - j];
-            j = 0;
+            j = -1;
             for (int num : array) {
                 if (num != numberDelete) {
-                    newArray[j] = num;
                     j++;
+                    newArray[j] = num;
                 }
             }
             System.out.println("Новый массив: " + Arrays.toString(newArray));
